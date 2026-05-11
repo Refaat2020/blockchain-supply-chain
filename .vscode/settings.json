@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/verification",
+        "./src/core",
+        "./src/api",
+        "./src/blockchain"
+    ]
+}
